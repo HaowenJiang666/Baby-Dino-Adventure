@@ -1,1 +1,1 @@
-# ECE5725-project: baby dino adventure
+# ECE5725-Project: Baby Dino Adventure
